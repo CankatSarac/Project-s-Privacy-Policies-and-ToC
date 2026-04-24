@@ -20,6 +20,13 @@ Name-discovery app that returns demographic predictions, meaning, and cultural c
 - [Privacy Policy](./namestory/PRIVACY_POLICY.md)
 - [Terms of Service](./namestory/TERMS_OF_SERVICE.md)
 
+### Socrates Pocket
+
+Reflective self-inquiry app that asks Socratic questions — never gives answers. No accounts, local-only storage, AI-generated questions.
+
+- [Privacy Policy](./socrates-pocket/PRIVACY_POLICY.md)
+- [Terms of Service](./socrates-pocket/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
@@ -34,6 +41,8 @@ https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/namestory/PRI
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/namestory/TERMS_OF_SERVICE
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/pledge/PRIVACY_POLICY
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/pledge/TERMS_OF_SERVICE
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pocket/PRIVACY_POLICY
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pocket/TERMS_OF_SERVICE
 ```
 
 To enable GitHub Pages on this repo:
