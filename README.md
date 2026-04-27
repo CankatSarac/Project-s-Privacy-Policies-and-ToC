@@ -27,6 +27,14 @@ Reflective self-inquiry app that asks Socratic questions — never gives answers
 - [Privacy Policy](./socrates-pocket/PRIVACY_POLICY.md)
 - [Terms of Service](./socrates-pocket/TERMS_OF_SERVICE.md)
 
+### DotSense
+
+Braille learning app: structured lessons, flash cards, word practice, speed drills, and free typing. Optional Apple / Google sign-in for cloud sync via Firebase. No advertising, no third-party analytics SDK.
+
+- [Privacy Policy](./dotsense/PRIVACY_POLICY.md)
+- [Terms of Service](./dotsense/TERMS_OF_SERVICE.md)
+- [Security & compliance notes](./dotsense/SECURITY_NOTES.md) (internal)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
@@ -43,6 +51,8 @@ https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/pledge/PRIVAC
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/pledge/TERMS_OF_SERVICE
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pocket/PRIVACY_POLICY
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pocket/TERMS_OF_SERVICE
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/PRIVACY_POLICY
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/TERMS_OF_SERVICE
 ```
 
 To enable GitHub Pages on this repo:
