@@ -24,8 +24,8 @@ the live policy URLs.
       - Delaware, USA (common, but only sensible if there is a US
         legal entity).
 - [ ] Decide and register the support / privacy email addresses
-      (`privacy@dotsense.app`, `support@dotsense.app`,
-      `security@dotsense.app`). If the `dotsense.app` domain is not
+      (`cankatsarac@gmail.com`, `cankatsarac@gmail.com`,
+      `cankatsarac@gmail.com`). If the `dotsense.app` domain is not
       yet owned, either register it or replace these with addresses
       on a domain you do own. Apple and Google will reject privacy
       contacts that bounce.
@@ -189,7 +189,7 @@ the backend operator).
       notification within 72 hours (GDPR Art. 33). Have a draft
       notification ready: who is affected, what was exposed, what
       mitigation, what users should do.
-- [ ] Provide a `security@dotsense.app` mailbox and monitor it.
+- [ ] Provide a `cankatsarac@gmail.com` mailbox and monitor it.
       Add a `/.well-known/security.txt` on the web property when
       one exists.
 

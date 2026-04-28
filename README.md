@@ -35,6 +35,15 @@ Braille learning app: structured lessons, flash cards, word practice, speed dril
 - [Terms of Service](./dotsense/TERMS_OF_SERVICE.md)
 - [Security & compliance notes](./dotsense/SECURITY_NOTES.md) (internal)
 
+### Finite
+
+Mortality-awareness app that generates a personalized statistical estimate of remaining days of life based on actuarial tables, date of birth, biological sex, country, lifestyle factors, and self-reported medical conditions. All health data is stored exclusively on-device (no backend). Includes daily reflection journaling, letters to loved ones, family countdown, and home screen widgets. Premium subscription managed via RevenueCat.
+
+**⚠️ Contains special-category health data under GDPR. No data leaves the user's device. Strong medical disclaimer required.**
+
+- [Privacy Policy](./finite/PRIVACY_POLICY.md)
+- [Terms of Service](./finite/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
@@ -53,6 +62,8 @@ https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pock
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/socrates-pocket/TERMS_OF_SERVICE
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/PRIVACY_POLICY
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/TERMS_OF_SERVICE
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/PRIVACY_POLICY
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/TERMS_OF_SERVICE
 ```
 
 To enable GitHub Pages on this repo:

@@ -204,8 +204,8 @@ Continued use of the App after changes indicates acceptance of the updated Priva
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, contact us at:
 
-**Email:** privacy@namestory.app
-**Support:** support@namestory.app
+**Email:** cankatsarac@gmail.com
+**Support:** cankatsarac@gmail.com
 **Mailing address:** _(to be populated with your business address before App Store submission)_
 
 For EU users, you may also contact our EU representative:

@@ -229,7 +229,7 @@ Any dispute, controversy, or claim arising out of or relating to these Terms or 
 
 ### 16.3 Informal Resolution
 
-Before filing any formal action, you agree to first contact us at **legal@socratespocket.com** and attempt to resolve the dispute informally in good faith within 30 days.
+Before filing any formal action, you agree to first contact us at **cankatsarac@gmail.com** and attempt to resolve the dispute informally in good faith within 30 days.
 
 ### 16.4 Injunctive Relief
 
@@ -294,15 +294,15 @@ You agree to comply with all applicable export and import laws and regulations. 
 
 ## 20. ACCESSIBILITY
 
-We strive to make Socrates Pocket accessible to users with disabilities. If you encounter any accessibility barriers, please contact us at **support@socratespocket.com** and we will make reasonable efforts to address them.
+We strive to make Socrates Pocket accessible to users with disabilities. If you encounter any accessibility barriers, please contact us at **cankatsarac@gmail.com** and we will make reasonable efforts to address them.
 
 ## 21. CONTACT INFORMATION
 
 For questions, concerns, or notices regarding these Terms:
 
-**Legal:** legal@socratespocket.com
-**General support:** support@socratespocket.com
-**Privacy:** privacy@socratespocket.com
+**Legal:** cankatsarac@gmail.com
+**General support:** cankatsarac@gmail.com
+**Privacy:** cankatsarac@gmail.com
 **Postal address:** *[to be provided in App Store Connect / Play Console listing]*
 
 ---

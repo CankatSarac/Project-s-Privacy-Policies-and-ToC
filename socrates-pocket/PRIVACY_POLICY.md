@@ -154,7 +154,7 @@ Depending on where you live, you may have the following rights:
 - **Objection** — object to processing of your information
 - **Withdrawal of consent** — withdraw any consent you have given
 
-To exercise these rights, email us at **privacy@socratespocket.com**. Because Socrates Pocket does not require an account, we may ask you to provide information that helps us verify your request (such as the RevenueCat anonymous ID or the receipt of a purchase).
+To exercise these rights, email us at **cankatsarac@gmail.com**. Because Socrates Pocket does not require an account, we may ask you to provide information that helps us verify your request (such as the RevenueCat anonymous ID or the receipt of a purchase).
 
 To stop all local retention immediately, uninstall the app.
 
@@ -184,7 +184,7 @@ California residents have specific rights under the California Consumer Privacy 
 
 **We do not sell or share personal information** as those terms are defined under California law.
 
-To exercise these rights, email **privacy@socratespocket.com**.
+To exercise these rights, email **cankatsarac@gmail.com**.
 
 ## 11. GDPR COMPLIANCE (EEA, UK, Switzerland)
 
@@ -200,7 +200,7 @@ If you are located in the European Economic Area, the United Kingdom, or Switzer
 **Data controller:**
 
 Cankat Saraç, operator of Socrates Pocket
-privacy@socratespocket.com
+cankatsarac@gmail.com
 
 If we are required to designate a representative or Data Protection Officer under applicable law, their details will be listed here.
 
@@ -218,8 +218,8 @@ Continued use of the app after the effective date of an updated Policy constitut
 
 For questions, concerns, or requests regarding this Privacy Policy or your information:
 
-**Privacy:** privacy@socratespocket.com
-**General support:** support@socratespocket.com
+**Privacy:** cankatsarac@gmail.com
+**General support:** cankatsarac@gmail.com
 **Postal address:** *[to be provided in App Store Connect / Play Console listing]*
 
 ## 14. COOKIES AND TRACKING TECHNOLOGIES

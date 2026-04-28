@@ -89,7 +89,7 @@ You have the right to:
 - Request a copy of your data (data portability)
 - Object to data processing
 
-To exercise these rights, visit the app settings or contact us at privacy@pledgeapp.com.
+To exercise these rights, visit the app settings or contact us at cankatsarac@gmail.com.
 
 ## 7. CHILDREN'S PRIVACY
 
@@ -140,10 +140,10 @@ Continued use of the app after changes constitutes acceptance of the updated pol
 
 For questions, concerns, or requests regarding this Privacy Policy:
 
-**Email:** privacy@pledgeapp.com  
+**Email:** cankatsarac@gmail.com  
 **App Support:** Through in-app "Contact Us" feature
 
-**Data Protection Officer (if applicable):** dpo@pledgeapp.com
+**Data Protection Officer (if applicable):** cankatsarac@gmail.com
 
 ## 14. COOKIES AND TRACKING TECHNOLOGIES
 

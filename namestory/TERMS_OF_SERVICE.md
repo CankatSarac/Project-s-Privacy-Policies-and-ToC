@@ -166,7 +166,7 @@ These Terms are governed by the laws of _(to be populated with the jurisdiction 
 
 ### 15.2 Informal Resolution
 
-Before filing a formal claim, you agree to contact us at legal@namestory.app to attempt informal resolution. We will respond within 30 days.
+Before filing a formal claim, you agree to contact us at cankatsarac@gmail.com to attempt informal resolution. We will respond within 30 days.
 
 ### 15.3 Arbitration (Optional, remove if not desired)
 
@@ -210,8 +210,8 @@ We are not liable for any failure or delay in performance due to circumstances b
 
 If you have questions about these Terms, contact us at:
 
-**Email:** legal@namestory.app
-**Support:** support@namestory.app
+**Email:** cankatsarac@gmail.com
+**Support:** cankatsarac@gmail.com
 **Mailing address:** _(to be populated with your business address before App Store submission)_
 
 ## 23. APPLE APP STORE ADDITIONAL TERMS

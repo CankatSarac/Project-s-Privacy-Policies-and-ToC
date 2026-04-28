@@ -219,7 +219,7 @@ No third parties have rights under these Terms.
 
 For questions, concerns, or notices regarding these Terms:
 
-**Email:** legal@pledgeapp.com  
+**Email:** cankatsarac@gmail.com  
 **Support:** Through in-app "Contact Us" feature  
 **Address:** [Your Company Address]
 

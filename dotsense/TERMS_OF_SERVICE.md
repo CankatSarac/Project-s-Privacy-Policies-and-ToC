@@ -96,7 +96,7 @@ You agree not to:
 - Probe, scan, or test the vulnerability of the backend without our
   prior written consent. If you are a security researcher and
   believe you have found a vulnerability, contact
-  security@dotsense.app and we will work with you in good faith.
+  cankatsarac@gmail.com and we will work with you in good faith.
 - Interfere with or disrupt the App, including by sending automated
   traffic or unusual volumes of requests.
 - Reverse engineer the App's network protocols to bypass security or
@@ -247,8 +247,8 @@ provision of these Terms:
 
 For questions about these Terms or the App:
 
-**Email:** support@dotsense.app
-**Security reports:** security@dotsense.app
+**Email:** cankatsarac@gmail.com
+**Security reports:** cankatsarac@gmail.com
 **Operator:** Cankat Saraç
 
 ---

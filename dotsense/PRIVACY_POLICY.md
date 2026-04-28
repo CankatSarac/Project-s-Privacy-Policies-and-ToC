@@ -248,7 +248,7 @@ stop using the app and delete your account.
 If you have questions, complaints, or requests regarding this Privacy
 Policy or our handling of your personal information:
 
-**Email:** privacy@dotsense.app
+**Email:** cankatsarac@gmail.com
 **Operator:** Cankat Saraç
 
 We aim to respond to substantive requests within 30 days.
