@@ -44,6 +44,15 @@ Mortality-awareness app that generates a personalized statistical estimate of re
 - [Privacy Policy](./finite/PRIVACY_POLICY.md)
 - [Terms of Service](./finite/TERMS_OF_SERVICE.md)
 
+### The Last Page (endpage)
+
+Personal reading library that preserves the closing line of every book you finish. You photograph the last page, an AI vision model identifies the book (title and author only), Open Library returns canonical metadata, and you write the final sentence and feeling that mattered. All sentences, feelings, photos, and shelves are stored exclusively on-device. The single off-device transmission is the last-page photo sent once for identification — the user's sentence and feeling never leave the device. Premium subscription (monthly, annual, lifetime) managed via RevenueCat.
+
+**Sends one image per book to a third-party AI vision service (Google Gemini via Rork Toolkit) for identification. Disclosed in Privacy Policy §4.1. No analytics, no advertising SDKs, no account.**
+
+- [Privacy Policy](./endpage/PRIVACY_POLICY.md)
+- [Terms of Service](./endpage/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
@@ -64,6 +73,8 @@ https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/PRIV
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/dotsense/TERMS_OF_SERVICE
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/PRIVACY_POLICY
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/TERMS_OF_SERVICE
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/endpage/PRIVACY_POLICY
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/endpage/TERMS_OF_SERVICE
 ```
 
 To enable GitHub Pages on this repo:
