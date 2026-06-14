@@ -53,6 +53,15 @@ Personal reading library that preserves the closing line of every book you finis
 - [Privacy Policy](./endpage/PRIVACY_POLICY.md)
 - [Terms of Service](./endpage/TERMS_OF_SERVICE.md)
 
+### Chronicle
+
+Single-player, fully offline history timeline trivia game. Place historical events in chronological order across three difficulty modes, a daily challenge, themed packs, XP/levels, streaks, and achievements. No accounts, no in-app purchases, no advertising, no network calls — all progress is stored on-device only.
+
+**Collects no data and transmits nothing in its shipped configuration. The optional analytics in the Rork build toolkit is disabled; if it is ever enabled, the Privacy Policy (§1.4 / §3.2) and the store privacy labels must be updated to disclose usage analytics.**
+
+- [Privacy Policy](./chronicle/PRIVACY_POLICY.md)
+- [Terms of Service](./chronicle/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
@@ -75,6 +84,8 @@ https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/PRIVAC
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/finite/TERMS_OF_SERVICE
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/endpage/PRIVACY_POLICY
 https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/endpage/TERMS_OF_SERVICE
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/chronicle/PRIVACY_POLICY
+https://<github-user>.github.io/Project-s-Privacy-Policies-and-ToC/chronicle/TERMS_OF_SERVICE
 ```
 
 To enable GitHub Pages on this repo:
