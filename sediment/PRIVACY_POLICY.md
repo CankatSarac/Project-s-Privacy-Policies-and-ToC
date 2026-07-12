@@ -58,6 +58,6 @@ rights. Apple retains store records under its own policies and legal duties.
 
 **Controller:** Cankat Saraç (sole proprietor)
 **Email:** cankatsarac@gmail.com
-**Postal address:** [INSERT POSTAL ADDRESS]
+**Postal address:** HU9 4BX, Hull, UK
 
 *This policy applies to Sediment on the Apple App Store.*

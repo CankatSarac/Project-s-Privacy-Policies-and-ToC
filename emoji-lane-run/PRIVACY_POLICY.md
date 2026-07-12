@@ -71,6 +71,6 @@ will be communicated in the app where reasonably practicable.
 
 **Controller:** Cankat Saraç (sole proprietor)
 **Email:** cankatsarac@gmail.com
-**Postal address:** [INSERT POSTAL ADDRESS]
+**Postal address:** HU9 4BX, Hull, UK
 
 *This policy applies to Emoji Lane Run on the Apple App Store.*
