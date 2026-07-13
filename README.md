@@ -170,6 +170,27 @@ Memory practice game for learning names and faces: study packs, timed recall tes
 - [Privacy Policy](./face-recall/PRIVACY_POLICY.md)
 - [Terms of Service](./face-recall/TERMS_OF_SERVICE.md)
 
+### Emoji Lane Run
+
+Local-first memory practice game with optional household profiles. Gameplay is stored on-device; no user account and no application backend.
+
+- [Privacy Policy](./emoji-lane-run/PRIVACY_POLICY.md)
+- [Terms of Service](./emoji-lane-run/TERMS_OF_SERVICE.md)
+
+### Sediment
+
+Local-first reflective game and breathing/attention companion. Gameplay, observations, and time capsules are stored on the device.
+
+- [Privacy Policy](./sediment/PRIVACY_POLICY.md)
+- [Terms of Service](./sediment/TERMS_OF_SERVICE.md)
+
+### Spot the Swap
+
+Local-first visual comparison and brain-training game. No user account and no application backend.
+
+- [Privacy Policy](./spot-the-swap/PRIVACY_POLICY.md)
+- [Terms of Service](./spot-the-swap/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
