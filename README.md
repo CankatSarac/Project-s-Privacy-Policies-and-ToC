@@ -163,6 +163,13 @@ Directory of nearby community services (shelter, food, healthcare, legal aid, et
 - [Privacy Policy](./compass/PRIVACY_POLICY.md)
 - [Terms of Service](./compass/TERMS_OF_SERVICE.md)
 
+### Face Recall
+
+Memory practice game for learning names and faces: study packs, timed recall tests, streaks, and personal trend reports. Custom face packs are built from photos chosen on-device and are never uploaded. Pro subscription via StoreKit (Apple). Optional Game Center leaderboard. No advertising, no third-party analytics SDK.
+
+- [Privacy Policy](./face-recall/PRIVACY_POLICY.md)
+- [Terms of Service](./face-recall/TERMS_OF_SERVICE.md)
+
 ## How these are hosted
 
 These documents are served as a public static site via GitHub Pages
