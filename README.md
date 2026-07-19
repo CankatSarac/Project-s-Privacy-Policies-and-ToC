@@ -104,6 +104,13 @@ Historical timeline trivia in themed packs. Daily challenges, streaks, achieveme
 - [Privacy Policy](./chronicle/PRIVACY_POLICY.md)
 - [Terms of Service](./chronicle/TERMS_OF_SERVICE.md)
 
+### Mind the Lane
+
+Three-lane memory-practice runner for iOS. Gameplay history, personal trends, settings, and generated result cards are processed on-device. No account, backend, advertising, analytics, or tracking in the current release. The folder retains the project's legacy `emoji-lane-run` slug so existing public links remain stable.
+
+- [Privacy Policy](./emoji-lane-run/PRIVACY_POLICY.md)
+- [Terms of Service](./emoji-lane-run/TERMS_OF_SERVICE.md)
+
 ### Glow — Kindness Map
 
 Map-based journal of small acts of kindness. Optional location and photo attachment per entry. All entries stored on-device. No accounts, no backend, no analytics, no AI in current version.
