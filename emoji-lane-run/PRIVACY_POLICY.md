@@ -1,76 +1,147 @@
-# EMOJI LANE RUN — PRIVACY POLICY
+# MIND THE LANE — PRIVACY POLICY
 
-**Effective Date:** July 12, 2026
-**Last Updated:** July 12, 2026
+**Effective Date:** July 19, 2026
 
-## Introduction
+**Last Updated:** July 19, 2026
 
-Emoji Lane Run is a local-first memory practice game. It stores gameplay and
-optional household profiles on the device and does not operate a user account
-or application backend.
+## 1. Overview
 
-Contact: **cankatsarac@gmail.com**
+Mind the Lane (the **“App”**) is a local-first memory-practice game for iOS.
+The App was previously developed under the working name Emoji Lane Run, which
+is still used in some project and policy URLs.
 
-## 1. INFORMATION WE HANDLE
+The App does not require an account. Cankat Saraç (the **“Developer,” “we,”
+“us,”** or **“our”**) does not operate an application backend and does not
+receive your gameplay history, profile, device identifier, or usage analytics.
 
-### 1.1 Stored locally on your device
+This policy explains the information the App stores on your device, the limited
+circumstances in which information can leave your device, and your choices.
 
-- Player profile names and emoji avatars that you create.
-- Run sessions, scores, streaks, settings, and trend/report data.
-- Generated share cards and family reports while they are being prepared for sharing.
+## 2. Information Stored on Your Device
 
-This information remains in the app's local storage unless you choose to share
-an exported card or PDF using Apple's system share sheet.
+The App stores the following information in its private iOS app storage:
 
-### 1.2 Apple services
+- Run history, including dates, scores, levels, duration, gates attempted,
+  correct and incorrect choices, sequence length, and timing information.
+- Personal progress derived from that history, including best scores, streaks,
+  streak freezes, and trend calculations.
+- App preferences, such as sound and haptic cue settings.
+- The local profile name, avatar choice, and active profile selection where
+  profile features are available.
+- Result cards and reports generated temporarily when you choose to share them.
 
-- **Game Center:** If you sign in to Game Center, Apple processes your Game
-  Center identity, leaderboard scores, and achievements under Apple's privacy
-  policy. We do not operate Game Center and do not receive your Apple account
-  password.
-- **App Store and StoreKit:** If you purchase Runner's Mind Plus, Apple
-  processes payment, transaction, and subscription information. We receive
-  only the entitlement state needed to unlock purchased features.
+This information is used only to provide the App's gameplay, progress,
+personalization, reporting, and sharing features. It is processed on your
+device and is not transmitted to the Developer.
 
-### 1.3 Information we do not collect
+## 3. Information We Do Not Collect Through the App
 
-We do not operate a backend and do not collect your name, email address, phone
-number, contacts, location, photos, camera or microphone recordings, advertising
-identifier, or browsing history. The current version contains no advertising
-SDK, analytics SDK, Firebase, Supabase, AI relay, or other user-data service.
+The current version contains no developer-operated backend, advertising SDK,
+third-party analytics SDK, cross-app tracking, or AI service. Through the App,
+we do not collect:
 
-## 2. SHARING
+- Your contact details, precise or approximate location, contacts, photos, or
+  camera or microphone recordings.
+- Advertising identifiers, browsing history, search history, or data from
+  other apps and websites.
+- Your gameplay history, local profile information, preferences, or trend data.
 
-Sharing is initiated by you through Apple's system share sheet. The recipient
-or service you choose receives the content you select. We do not control that
-recipient's handling of shared content.
+We do not sell personal information, use it for targeted advertising, or track
+you across apps or websites.
 
-## 3. CHILDREN
+## 4. When Information Can Leave Your Device
 
-The game is intended for a general audience and is not directed to children
-under 13 (or the applicable age of digital consent in your country). We do not
-knowingly collect personal information from children.
+### 4.1 Sharing you initiate
 
-## 4. RETENTION AND DELETION
+The App can create a result card or report from locally stored information. A
+file leaves the App only when you choose the Share action and select a person,
+app, or service through Apple's system share sheet. The selected recipient or
+service will receive the content you choose to share and will handle it under
+its own terms and privacy practices. We do not receive a copy and cannot delete
+copies held by you or the selected recipient.
 
-Local data remains until you delete it in the app, reset the app, or uninstall
-the app. Apple retains App Store and Game Center records under its own policies
-and legal obligations.
+### 4.2 Apple services
 
-## 5. YOUR RIGHTS
+Apple processes information needed to download the App and may process App
+Store transaction or entitlement information under Apple's own privacy policy.
+The Developer does not receive your payment-card details or Apple Account
+password.
 
-You can access and delete local gameplay data through the app or your device.
-You can withdraw Game Center, notification, or sharing choices through the
-relevant Apple settings or service. EEA, UK, and California residents may also
-contact us about applicable access, deletion, correction, or objection rights.
+The version covered by this policy does not activate Game Center or submit
+scores to a Game Center leaderboard. If a future version enables Game Center,
+this policy and the App Store privacy information will be updated before that
+data practice takes effect.
 
-## 6. CHANGES AND CONTACT
+Apple's privacy policy is available at:
+https://www.apple.com/legal/privacy/
 
-We may update this policy when the app's data practices change. Material changes
-will be communicated in the app where reasonably practicable.
+### 4.3 Support communications
 
-**Controller:** Cankat Saraç (sole proprietor)
+If you email us for support, we receive your email address and any information
+you include in the message. We use that information to respond, investigate the
+issue, keep reasonable support records, and comply with legal obligations. Do
+not include sensitive information that is not needed for your request. Our
+email provider processes these communications on our behalf.
+
+## 5. Retention and Deletion
+
+App data remains in the App's private storage until iOS removes it or you
+uninstall the App. Files prepared for sharing may remain in the App's temporary
+storage until iOS clears them or the App is uninstalled. Uninstalling the App
+removes its locally stored data from that device, subject to Apple's device and
+backup behavior.
+
+The Developer cannot retrieve or delete your on-device data because we do not
+receive it. You can view available gameplay and progress information inside the
+App. If you share a file, you must manage or delete the shared copy through the
+recipient or service you selected.
+
+Support emails are kept only for as long as reasonably needed to answer the
+request, maintain support records, resolve disputes, or meet legal obligations.
+Apple retains information it controls according to its own policies.
+
+## 6. Security
+
+On-device information is kept within the App's iOS storage container and is
+protected by the security features of your device and iOS. No method of storage
+is completely secure, so you should protect your device with a passcode and
+keep iOS up to date.
+
+## 7. Children
+
+The App is intended for a general audience and is not directed to children
+under 13 or the applicable minimum age in their country. The App does not
+transmit gameplay or profile data to the Developer. A parent or guardian should
+contact us on behalf of a child and should supervise any information the child
+chooses to share outside the App.
+
+## 8. Your Privacy Rights and Choices
+
+Depending on where you live, privacy law may provide rights such as access,
+correction, deletion, restriction, objection, or complaint to a data-protection
+authority. Because the Developer does not receive or control your on-device App
+data, we cannot identify, access, correct, or delete it remotely. You control
+that data through the App, your device, and by uninstalling the App.
+
+For personal information contained in a support communication, you may contact
+us to exercise any rights that apply to you. We may need enough information to
+verify and process the request.
+
+## 9. Changes to This Policy
+
+We may update this policy when the App or applicable requirements change. We
+will revise the **Last Updated** date above and, where appropriate, provide
+additional notice in the App or through the App Store. We will update this
+policy before introducing a materially different data practice.
+
+## 10. Contact
+
+**Data Controller and Developer:** Cankat Saraç, sole proprietor
+
 **Email:** cankatsarac@gmail.com
-**Postal address:** HU9 4BX, Hull, UK
 
-*This policy applies to Emoji Lane Run on the Apple App Store.*
+**Location:** Hull, HU9 4BX, United Kingdom
+
+Questions or privacy requests may be sent to the email address above.
+
+*This policy applies to Mind the Lane for iOS.*
