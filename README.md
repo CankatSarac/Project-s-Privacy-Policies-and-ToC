@@ -6,6 +6,17 @@ own `PRIVACY_POLICY.md` and `TERMS_OF_SERVICE.md`.
 
 ## Apps
 
+### Feelwheel
+
+Private emotion journal for Apple devices. Journal entries, notes, photos, and
+voice notes stay on-device by default. Optional private iCloud sync and
+write-only Apple Health State of Mind mirroring are controlled by the user.
+Subscriptions are handled directly by Apple StoreKit. No Feelwheel account,
+developer-operated backend, advertising, or third-party analytics SDK.
+
+- [Privacy Policy](./feelwheel/PRIVACY_POLICY.md)
+- [Terms of Service](./feelwheel/TERMS_OF_SERVICE.md)
+
 ### Pledge
 
 Personal habit-tracking and goal-keeping app.
