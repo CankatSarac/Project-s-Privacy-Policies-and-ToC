@@ -1,7 +1,7 @@
 # DOTSENSE APP PRIVACY POLICY
 
 **Effective Date:** April 27, 2026
-**Last Updated:** April 27, 2026
+**Last Updated:** October 18, 2026
 
 ## Introduction
 
@@ -22,14 +22,18 @@ read and understood this Privacy Policy.
 You can use DotSense as a guest without creating an account. If you
 choose to sign in for cloud sync, we collect:
 
-- An account identifier from your sign-in provider (Apple ID or Google
-  account user ID).
-- Your email address, if your sign-in provider releases it. Apple Sign
-  In may return a private relay address; we accept and store it as-is.
+- A Firebase account identifier and, when applicable, an identifier from
+  your sign-in provider (Apple or Google).
+- Your email address, supplied when creating an email/password account
+  or provided by your sign-in provider. Apple Sign In may return a
+  private relay address; we accept and store it as-is.
 - A display name (optional, you can change or remove it at any time).
 
-We do **not** ask for, collect, or store your password. Authentication
-is delegated to Apple and Google; we never see your credentials.
+For email/password accounts, the password you enter is transmitted
+securely to Firebase Authentication for account creation, sign-in, or
+re-authentication. DotSense does not store plaintext passwords in its
+app database. Apple and Google sign-in are handled through the selected
+provider; DotSense does not receive your Apple or Google account password.
 
 ### 1.2 Learning data
 
@@ -137,8 +141,9 @@ We use the following measures to protect your data:
 - Firestore security rules restrict every document to its owner: only
   the authenticated user with the matching account ID can read or
   write their own data.
-- Authentication is delegated to Apple and Google; we do not store
-  passwords.
+- Firebase Authentication handles email/password accounts and Apple or
+  Google sign-in. DotSense does not store plaintext passwords in its app
+  database.
 - We follow the principle of least privilege for any administrative
   access to backend systems.
 
@@ -154,11 +159,17 @@ notifying the email address on file (if any).
 
 You can delete your account at any time:
 
-- **In-app:** open the Profile tab and choose "Delete account". This
-  removes your account record, all subcollections under your account,
-  and your authentication record from our backend within 30 days.
-- **By email:** write to the address in section 12 from the email
-  address associated with your account, asking us to delete your data.
+- **In-app:** open the Profile tab and choose "Delete account". Confirm
+  the request and enter your password if prompted; Apple or Google users
+  may need to sign in again first. On successful completion, the app deletes
+  your learning data, analytics events, account document and Firebase
+  Authentication account, and clears its local learning data. If deletion
+  fails, the app displays an error so you can retry.
+- **Without the app:** email **cankatsarac@gmail.com** from the address
+  associated with your account, with the subject **DotSense account deletion**.
+  Ask us to delete your account and associated data. We may verify account
+  ownership before completing the request. You do not need to reinstall the
+  app or send us your password.
 
 After deletion:
 
