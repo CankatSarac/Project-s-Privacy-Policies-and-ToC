@@ -2,7 +2,7 @@
 
 **Effective Date:** July 19, 2026
 
-**Last Updated:** July 19, 2026
+**Last Updated:** October 21, 2026
 
 ## 1. Overview
 
@@ -12,7 +12,8 @@ is still used in some project and policy URLs.
 
 The App does not require an account. Cankat Saraç (the **“Developer,” “we,”
 “us,”** or **“our”**) does not operate an application backend and does not
-receive your gameplay history, profile, device identifier, or usage analytics.
+receive your gameplay history or local profile names. Apple and RevenueCat process
+purchase and technical information as described below.
 
 This policy explains the information the App stores on your device, the limited
 circumstances in which information can leave your device, and your choices.
@@ -37,7 +38,8 @@ device and is not transmitted to the Developer.
 ## 3. Information We Do Not Collect Through the App
 
 The current version contains no developer-operated backend, advertising SDK,
-third-party analytics SDK, cross-app tracking, or AI service. Through the App,
+advertising analytics, cross-app tracking, or AI service. RevenueCat provides purchase
+validation, subscription reporting and hosted paywalls as described in section 4.3. Through the App,
 we do not collect:
 
 - Your contact details, precise or approximate location, contacts, photos, or
@@ -75,7 +77,27 @@ data practice takes effect.
 Apple's privacy policy is available at:
 https://www.apple.com/legal/privacy/
 
-### 4.3 Support communications
+### 4.3 RevenueCat purchase services
+
+The App uses RevenueCat for purchase validation, entitlement management,
+hosted purchase screens and subscription reporting. The SDK can contact
+RevenueCat at app launch, before a purchase is made. It processes an
+app-generated anonymous purchase identifier, transaction and entitlement
+information, and technical information such as app/device versions, network
+information and last-seen activity. The Developer can view purchase and
+subscription status in RevenueCat. Local profile names and gameplay history
+are not sent to RevenueCat. We do not use this information for targeted
+advertising or cross-app tracking.
+
+RevenueCat's privacy policy is available at:
+https://www.revenuecat.com/privacy
+
+Deleting the App does not cancel subscriptions or erase records held by Apple
+or RevenueCat. Contact the Developer about purchase-data rights requests;
+provider retention and legal requirements may apply. Manage or cancel a
+subscription through your Apple Account settings.
+
+### 4.4 Support communications
 
 If you email us for support, we receive your email address and any information
 you include in the message. We use that information to respond, investigate the
@@ -138,9 +160,9 @@ policy before introducing a materially different data practice.
 
 **Data Controller and Developer:** Cankat Saraç, sole proprietor
 
-**Email:** cankatsarac@gmail.com
+**Email:** dev@teampire.uk
 
-**Location:** Hull, HU9 4BX, United Kingdom
+**Location:** United Kingdom
 
 Questions or privacy requests may be sent to the email address above.
 
