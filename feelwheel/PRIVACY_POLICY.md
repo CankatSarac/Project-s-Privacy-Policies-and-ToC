@@ -2,7 +2,7 @@
 
 **Effective Date:** September 16, 2026
 
-**Last Updated:** September 16, 2026
+**Last Updated:** October 22, 2026
 
 ## Introduction
 
@@ -12,7 +12,7 @@ review your own patterns over time.
 
 Feelwheel is local by default. We do not operate a Feelwheel account system or
 application backend, and we cannot read your journal. Optional Apple services
-are described below.
+and purchase processing are described below.
 
 Contact: **cankatsarac@gmail.com**
 
@@ -58,6 +58,16 @@ Feelwheel Plus is offered through Apple's StoreKit. Apple processes payment,
 transaction, renewal, cancellation, and refund information. Feelwheel receives
 the purchase entitlement needed to unlock features; we do not receive your
 card or bank details. Apple's privacy policy applies to App Store purchases.
+
+Feelwheel also uses RevenueCat to process purchase history and subscription
+status, support purchase restoration, and understand subscription performance.
+RevenueCat receives an anonymous app identifier, transaction and product
+identifiers, purchase and renewal information, and technical app/device
+information needed to provide this service. Feelwheel does not send your
+journal, feelings, notes, photos, voice recordings, or Apple Health records to
+RevenueCat. The anonymous purchase identifier is not linked by Feelwheel to a
+name, email address, or Feelwheel account. This data is not used for advertising
+or cross-app tracking. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
 
 ## 2. OPTIONAL APPLE SERVICES
 
@@ -109,7 +119,8 @@ The current version of Feelwheel has:
 
 - No Feelwheel user account or developer-operated application backend.
 - No advertising or cross-app tracking.
-- No third-party analytics or crash-reporting SDK.
+- No third-party journal analytics or crash-reporting SDK. RevenueCat processes
+  purchase information as described in section 1.4.
 - No sale or rental of personal information.
 - No cloud AI processing of journal content.
 - No collection by us of your name, email address, contacts, precise location,
@@ -126,6 +137,9 @@ Because turning sync off or uninstalling one copy of the app may not erase data
 already in iCloud or on another device, use Apple's iCloud management controls
 when you want to remove those copies. Health records and App Store transaction
 records are managed separately by Apple under Apple's retention rules.
+RevenueCat retains purchase records according to its service and legal
+requirements; uninstalling Feelwheel does not cancel a subscription or erase
+transaction records. Contact us about purchase-data privacy requests.
 
 You can withdraw optional permissions at any time in Apple Settings. EEA, UK,
 and California residents may contact us about applicable privacy rights. In
