@@ -198,6 +198,26 @@ not targeted advertising or tracking across apps. Local runner names, gameplay
 history and report contents are not sent to RevenueCat. See
 [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
 
+Android releases that display **Redeem access code** can apply a complimentary
+code without creating an account or making a purchase. When you choose this
+action, the app sends the code and its anonymous RevenueCat purchase identifier
+over HTTPS to our access service hosted on Cloudflare Workers. Cloudflare also
+receives the network metadata needed to handle the request, such as your IP
+address. This service checks the code and asks RevenueCat to grant Plus access
+to the existing anonymous Android purchase record. It does not receive local
+runner names, gameplay history, reports, Google credentials or payment details.
+
+The service stores code hashes rather than redeemable codes. Request-body and
+application request logging are disabled. A hash of the connecting IP address
+is held temporarily in server memory for abuse prevention; the service does
+not write it to a database. Cloudflare handles its own service and security
+records under [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
+RevenueCat retains the resulting entitlement record to provide access. The
+access-code service is for app functionality and abuse prevention, not
+advertising. The purchase-record deletion contact below also covers these
+complimentary entitlement records. Clearing app storage may replace the
+anonymous identifier; an eligible reusable code can be applied again.
+
 Clear Android app storage or uninstall the app to remove local app data.
 Manage separately any report or image copies you shared. Uninstalling does
 not cancel subscriptions or erase purchase records held by Google or RevenueCat.
@@ -208,6 +228,7 @@ locate the anonymous purchase record and verify your request. Do not send
 payment-card details or account passwords. Legal retention obligations and
 Google's own records may limit deletion.
 
-The general-audience and children's information in section 7 also applies to
-Android. The game and its progress reports provide practice feedback, not a
-medical diagnosis or treatment.
+The Android app is intended for adults aged 18 and older and is not directed
+to children. This Android audience replaces the general-audience description
+in section 7 for the Google Play version. The game and its progress reports
+provide practice feedback, not a medical diagnosis or treatment.
