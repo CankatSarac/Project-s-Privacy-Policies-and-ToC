@@ -1,9 +1,13 @@
-# FACE RECALL — PRIVACY POLICY
+# NAMEWISE / FACE RECALL — PRIVACY POLICY
 
 **Effective Date:** July 12, 2026
-**Last Updated:** July 12, 2026
+**Last Updated:** November 5, 2026
 
 ## Introduction
+
+Namewise was previously called Face Recall. Sections 1–5 below describe the
+Apple App Store version. Section 6 describes the Android version distributed
+through Google Play and its platform-specific purchase services.
 
 Face Recall is a local-first memory game. It lets you practice with bundled
 face images and optionally create local custom packs from photos selected on
@@ -70,3 +74,62 @@ California residents may contact us about applicable privacy rights.
 **Postal address:** HU9 4BX, Hull, UK
 
 *This policy applies to Face Recall on the Apple App Store.*
+
+## 6. NAMEWISE FOR ANDROID / GOOGLE PLAY
+
+This section applies to the Android app with package `com.teampire.namewise`.
+It replaces the Apple-specific service and storage descriptions above for
+that version. The same controller and contact details in section 5 apply.
+
+### Local practice data and device features
+
+Profiles, names or labels you enter, practice history, progress, preferences,
+custom face packs and reports are stored in the app's private Android storage.
+The app uses Android's system photo picker to import only photos you select;
+it does not request broad photo-library, camera or microphone access. Imported
+photos and names are not sent to the developer, RevenueCat or an AI service.
+Pronunciation uses installed offline Android text-to-speech voices; if a
+suitable offline voice is unavailable, speech is unavailable. The app does
+not record your voice or perform face recognition or identity verification.
+Optional reminders run locally with your permission. Home-screen widgets use
+committed progress summaries without publishing your local profile names or
+custom photos to widget storage. Android cloud backup is disabled for the app.
+
+The app has no login account, advertising SDK, cloud AI or developer-operated
+gameplay backend. Local names and gameplay history are not purchase identifiers.
+
+### Google Play and RevenueCat purchases
+
+Google Play processes payments, transactions and subscriptions under
+[Google's privacy policy](https://policies.google.com/privacy). We do not receive
+your payment-card details or Google Account password.
+
+The Android app uses RevenueCat to validate purchases, maintain Pro access,
+restore purchases and provide subscription reporting. Its SDK may connect at
+app launch before you buy anything. RevenueCat processes an app-generated
+anonymous purchase identifier, purchase history, transaction and entitlement
+records, and technical metadata such as app/SDK/device versions, locale,
+network information and the time it was contacted. The developer can view
+purchase and subscription records in RevenueCat. These services support app
+functionality and subscription analytics, not targeted advertising or tracking
+across apps. We do not send custom photos, local profile names, practice scores
+or report contents to RevenueCat. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
+
+### Sharing, retention and deletion requests
+
+A report or image leaves the app when you choose to share it through Android's
+system share sheet. Your selected recipient handles that copy. Delete local
+custom packs or photos in the app, or clear Android app storage or uninstall
+to remove local app data. Manage separately any copies you shared elsewhere.
+
+Uninstalling does not cancel a Google Play subscription or delete purchase
+records held by Google or RevenueCat. Manage subscriptions in Google Play.
+To request deletion of developer-controlled purchase records, email
+**cankatsarac@gmail.com** with the subject **Namewise Android data deletion**.
+We may ask for information needed to locate the anonymous purchase record and
+verify your request. Do not send payment-card details or account passwords.
+Legal retention obligations and Google's own records may limit deletion.
+
+Namewise is a general-audience practice game and is not directed to children
+under 13 or the applicable local minimum age. Obtain permission before adding
+someone's image. It provides no medical diagnosis or treatment.

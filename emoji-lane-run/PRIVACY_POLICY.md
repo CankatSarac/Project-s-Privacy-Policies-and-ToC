@@ -2,7 +2,7 @@
 
 **Effective Date:** July 19, 2026
 
-**Last Updated:** October 21, 2026
+**Last Updated:** November 5, 2026
 
 ## 1. Overview
 
@@ -167,3 +167,47 @@ policy before introducing a materially different data practice.
 Questions or privacy requests may be sent to the email address above.
 
 *This policy applies to Mind the Lane for iOS.*
+
+## 11. Mind the Lane for Android / Google Play
+
+This section extends the policy to the Android app with package
+`com.teampire.mindthelane`. It replaces the iOS-specific storage and Apple
+service descriptions above for that version; the same controller and contact
+details in section 10 apply.
+
+Run history, local runner profiles, progress, preferences and generated reports
+remain in the app's private Android storage. Android cloud backup is disabled.
+The Android version does not require an account or use a developer-operated
+gameplay backend, advertising SDK, cloud AI, location, camera or microphone.
+Home-screen widgets use committed progress summaries without publishing local
+runner names or run history to widget storage. A report or image leaves the
+app only when you choose to share it through Android's system share sheet.
+The person or service you select handles that copy.
+
+Google Play processes downloads, payments, transactions and subscriptions under
+[Google's privacy policy](https://policies.google.com/privacy). We do not receive
+your payment-card details or Google Account password. The Android app uses
+RevenueCat for purchase validation, Plus access, restores and subscription
+reporting. Its SDK can connect at app launch before a purchase. RevenueCat
+processes an app-generated anonymous purchase identifier, purchase history,
+transaction and entitlement information, and technical metadata such as
+app/SDK/device versions, locale, network information and the time it was
+contacted. The developer can view purchase and subscription status in
+RevenueCat. These services support app functionality and subscription analytics,
+not targeted advertising or tracking across apps. Local runner names, gameplay
+history and report contents are not sent to RevenueCat. See
+[RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
+
+Clear Android app storage or uninstall the app to remove local app data.
+Manage separately any report or image copies you shared. Uninstalling does
+not cancel subscriptions or erase purchase records held by Google or RevenueCat.
+Manage or cancel subscriptions in Google Play. To request deletion of
+developer-controlled purchase records, email **dev@teampire.uk** with the subject
+**Mind the Lane Android data deletion**. We may request information needed to
+locate the anonymous purchase record and verify your request. Do not send
+payment-card details or account passwords. Legal retention obligations and
+Google's own records may limit deletion.
+
+The general-audience and children's information in section 7 also applies to
+Android. The game and its progress reports provide practice feedback, not a
+medical diagnosis or treatment.
