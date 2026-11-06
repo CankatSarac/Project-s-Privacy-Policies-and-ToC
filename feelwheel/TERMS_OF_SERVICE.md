@@ -1,14 +1,14 @@
 # FEELWHEEL — TERMS OF SERVICE
 
-**Effective Date:** September 16, 2026
+**Effective Date:** November 6, 2026
 
-**Last Updated:** September 16, 2026
+**Last Updated:** November 6, 2026
 
 ## 1. ACCEPTANCE AND SERVICE
 
 By downloading or using Feelwheel (the "App"), you agree to these Terms with
 **Cankat Saraç**. Feelwheel is a personal emotion-journaling and reflection app
-for Apple devices.
+for Apple, Android and Wear OS devices.
 
 ## 2. WELLBEING DISCLAIMER
 
@@ -27,21 +27,33 @@ permissions needed for material concerning another person.
 
 Feelwheel stores journal content locally by default. Optional iCloud sync,
 Apple Health mirroring, Apple Watch transfer, and user-directed exports use
-Apple services as explained in the [Privacy Policy](./PRIVACY_POLICY.md). You
-are responsible for protecting your device, Apple account, backups, and files
+Apple services as explained in the [Privacy Policy](./PRIVACY_POLICY.md).
+The Wear OS companion uses Google's Wearable Data Layer with a paired Android
+phone. Android does not provide iCloud sync or Apple Health mirroring; its
+journal remains in app-private storage unless you deliberately export it.
+You are responsible for protecting your device, platform account, backups, and files
 you export or share.
 
 ## 4. FEELWHEEL PLUS
 
 Feelwheel Plus may be offered as monthly or annual auto-renewing subscriptions.
-The App Store displays the current price, billing period, and any trial terms
+On Apple devices, the App Store displays the current price, billing period, and any trial terms
 before you confirm a purchase. Payment is charged to your Apple account.
 
-Subscriptions automatically renew unless cancelled at least 24 hours before
+Apple subscriptions automatically renew unless cancelled at least 24 hours before
 the end of the current billing period. Apple handles billing, renewals,
 cancellation, and refunds under its rules. You can manage or cancel in Apple
 account subscription settings, and you can restore eligible purchases in the
 App. Deleting the App does not cancel an active subscription.
+
+On Android, Google Play displays the current price, billing period and any
+applicable offer before you confirm a subscription. Payment is processed
+through your Google account. Subscriptions renew until cancelled under Google
+Play's applicable terms. Manage or cancel in Google Play's subscription
+settings, and use the App's restore control for eligible purchases. Deleting
+the App does not cancel a Google Play subscription. RevenueCat supports purchase
+validation and restoration as described in the Privacy Policy; journal content
+is not sent to RevenueCat.
 
 ## 5. ACCEPTABLE USE
 
@@ -79,7 +91,7 @@ of the App is also subject to Apple's applicable App Store rules and terms.
 We may update these Terms when the App or legal requirements change. The **Last
 Updated** date identifies the current version. If you do not agree with an
 updated version, stop using the App and cancel any active subscription through
-Apple.
+the store where you subscribed.
 
 For support or legal questions, contact **cankatsarac@gmail.com**.
 
