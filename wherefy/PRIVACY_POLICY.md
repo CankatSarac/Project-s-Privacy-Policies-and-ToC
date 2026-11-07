@@ -83,6 +83,17 @@ access and restore purchases. This can involve an anonymous app-user identifier,
 product and transaction identifiers, purchase history, entitlement status and
 technical app or device information needed for the service.
 
+The Google Play Billing software configured in the Android app can automatically
+send billing API and connection diagnostics through Google DataTransport. These
+can include connection timings, operation and response/error codes, and SDK error
+or exception details. Technical context can include app and SDK versions, Android
+version, device brand, model and manufacturer, Android software build information,
+total device memory, and a random value generated for a billing-client instance.
+This reporting can occur while billing connects, even if you do not make a
+purchase. Wherefy does not supply analysis photos, notes or results to this
+billing diagnostics process. Google's processing follows its own privacy terms;
+Wherefy does not represent this reporting as having guaranteed zero retention.
+
 Wherefy does not send the photos, notes or analysis results described above to
 RevenueCat as part of this purchase integration, and the developer does not
 receive your full card or bank details. The availability of purchase options
