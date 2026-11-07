@@ -2,7 +2,7 @@
 
 **Effective Date:** November 6, 2026
 
-**Last Updated:** November 6, 2026
+**Last Updated:** November 7, 2026
 
 ## Introduction
 
@@ -74,6 +74,16 @@ information under its privacy policy. The app receives the purchase and
 entitlement information needed to provide and restore Plus. We do not receive
 your card or bank details. Google Play displays the current price and billing
 period before you confirm a purchase.
+
+The Google Play Billing software configured in the Android app can automatically
+send billing API and connection diagnostics through Google DataTransport. These
+may include connection timings, operation and response/error codes, and SDK error
+or exception details. Technical information may include the app and SDK versions,
+Android version, device brand, model and manufacturer, Android software build
+fingerprint, total device memory, and a random value generated for a billing-client
+instance. This reporting can occur while billing connects, even if you do not make
+a purchase. Feelwheel does not supply journal entries, feelings, notes, photos or
+voice recordings to this billing diagnostics process.
 
 Feelwheel also uses RevenueCat to process purchase history and subscription
 status, support purchase restoration, and understand subscription performance.
@@ -154,8 +164,8 @@ The current version of Feelwheel has:
 
 - No Feelwheel user account or developer-operated application backend.
 - No advertising or cross-app tracking.
-- No third-party journal analytics or crash-reporting SDK. RevenueCat processes
-  purchase information as described in section 1.4.
+- No third-party analytics of journal content. Google Play Billing diagnostics
+  and RevenueCat purchase processing are described in section 1.4.
 - No sale or rental of personal information.
 - No cloud AI processing of journal content.
 - No collection by us of your name, email address, contacts, precise location,
