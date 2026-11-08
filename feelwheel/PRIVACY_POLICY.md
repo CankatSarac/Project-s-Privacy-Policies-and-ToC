@@ -2,7 +2,7 @@
 
 **Effective Date:** November 6, 2026
 
-**Last Updated:** November 7, 2026
+**Last Updated:** November 8, 2026
 
 ## Introduction
 
@@ -94,6 +94,19 @@ journal, feelings, notes, photos, voice recordings, or Apple Health records to
 RevenueCat. The anonymous purchase identifier is not linked by Feelwheel to a
 name, email address, or Feelwheel account. This data is not used for advertising
 or cross-app tracking. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
+
+### 1.5 Optional local Plus license (Google Play Android edition)
+
+Where provided in the Android phone app, a complimentary code is checked on your
+device to enable Standard Plus features there. Feelwheel does not upload the
+entered code through this license check. The code is held temporarily in the
+current screen; the app saves a small versioned activation marker instead of the
+code, in app-private storage excluded from Android app-data backup and journal
+exports. The license check does not create or change a RevenueCat purchase
+identity or entitlement. Ordinary purchase-SDK processing described above remains
+separate. Removing the local license removes its complimentary access, keeps
+your journal, media and purchases, and permits later redemption again. This
+phone license does not activate on Apple or Wear OS devices.
 
 ## 2. PLATFORM SERVICES
 
@@ -198,9 +211,10 @@ not receive it.
 
 ## 6. CHILDREN AND WELLBEING
 
-Feelwheel is a general-audience personal journal and is not directed to children
-under 13, or the minimum age required in their country. We do not knowingly
-collect children's personal information.
+The Google Play edition of Feelwheel is intended for adults aged 18 and older.
+On Apple platforms, Feelwheel is a general-audience personal journal and is not
+directed to children under 13, or the minimum age required in their country.
+We do not knowingly collect children's personal information.
 
 Feelwheel is not a medical device, diagnostic service, treatment, or substitute
 for professional mental-health care. Journal entries and insights are for

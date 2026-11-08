@@ -2,7 +2,7 @@
 
 **Effective Date:** November 6, 2026
 
-**Last Updated:** November 6, 2026
+**Last Updated:** November 8, 2026
 
 ## 1. ACCEPTANCE AND SERVICE
 
@@ -54,6 +54,17 @@ settings, and use the App's restore control for eligible purchases. Deleting
 the App does not cancel a Google Play subscription. RevenueCat supports purchase
 validation and restoration as described in the Privacy Policy; journal content
 is not sent to RevenueCat.
+
+Where provided in the Google Play Android phone app, a complimentary device-local
+license can also unlock Standard Plus features without a subscription. It has no
+charge, renewal or scheduled expiry. Any holder of the provided code can redeem
+it on that device; existing offline copies cannot be revoked remotely. The
+license is separate from RevenueCat entitlements and Google Play purchases, does
+not restore through Google Play or transfer with journal backups, and does not
+activate on Apple or Wear OS. Removing it keeps your journal, media and genuine
+purchases, and the same code can be redeemed again. Removing the app or clearing
+its app data also removes the local activation. Ordinary subscription, restore
+and cancellation rules above remain unchanged.
 
 ## 5. ACCEPTABLE USE
 
