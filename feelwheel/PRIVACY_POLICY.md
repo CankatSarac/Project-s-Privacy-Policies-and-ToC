@@ -2,7 +2,7 @@
 
 **Effective Date:** November 6, 2026
 
-**Last Updated:** November 8, 2026
+**Last Updated:** November 10, 2026
 
 ## Introduction
 
@@ -84,6 +84,8 @@ fingerprint, total device memory, and a random value generated for a billing-cli
 instance. This reporting can occur while billing connects, even if you do not make
 a purchase. Feelwheel does not supply journal entries, feelings, notes, photos or
 voice recordings to this billing diagnostics process.
+Google uses this reporting to improve Play Billing performance and support
+billing errors.
 
 Feelwheel also uses RevenueCat to process purchase history and subscription
 status, support purchase restoration, and understand subscription performance.
@@ -94,6 +96,8 @@ journal, feelings, notes, photos, voice recordings, or Apple Health records to
 RevenueCat. The anonymous purchase identifier is not linked by Feelwheel to a
 name, email address, or Feelwheel account. This data is not used for advertising
 or cross-app tracking. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
+RevenueCat may infer your country from your IP address for subscription analytics;
+it states that the IP address is discarded after the country is determined.
 
 ### 1.5 Optional local Plus license (Google Play Android edition)
 
@@ -146,9 +150,11 @@ and by any recipient you deliberately choose.
 
 ### 2.4 Android and Wear OS
 
-The Wear OS companion transfers a selected feeling to its paired Android phone
-using Google's Wearable Data Layer. The phone stores the received check-in in
-its private journal. This does not create a developer-operated journal server
+The Wear OS companion transfers check-ins to its paired Android phone using
+Google's Wearable Data Layer. Depending on available connections, the transfer
+uses Bluetooth or Google servers as an intermediary. Google states that the
+cloud transfer is end-to-end encrypted. The phone stores the received check-in
+in its private journal. This does not create a developer-operated journal server
 or make journal content available to RevenueCat. Google provides the device
 connection services under its applicable privacy terms.
 
@@ -200,9 +206,35 @@ records are managed separately by Apple under Apple's retention rules.
 RevenueCat retains purchase records according to its service and legal
 requirements; uninstalling Feelwheel does not cancel a subscription or erase
 transaction records. Google Play transaction records are managed separately by
-Google under its retention rules. Contact us at cankatsarac@gmail.com about
-purchase-data deletion or other privacy requests. Do not send your private
-journal or recordings when requesting purchase-data assistance.
+Google under its retention rules.
+
+### Android purchase-data deletion requests
+
+To request deletion of your Android RevenueCat purchase data:
+
+1. Open **Settings** in Feelwheel on Android and select **purchase support ID**.
+   Touch and hold the displayed ID to copy it.
+2. Email **cankatsarac@gmail.com** with that ID and your deletion request.
+   Do not send your complimentary license code, journal, photos, recordings,
+   payment-card details or passwords.
+
+We use the ID to locate the relevant RevenueCat record and handle your request.
+RevenueCat processes deletion asynchronously. Deleting that record does not
+cancel your Google Play subscription; manage cancellation separately in Google
+Play. Google Play transaction records and independently collected Google Billing
+diagnostics are separate from the RevenueCat record and are handled by Google
+under its own policies. A RevenueCat deletion is not a promise to erase those
+independent records.
+
+### Copies on paired devices
+
+Pending check-ins and rejected check-ins can remain in app-private storage on
+the Wear OS watch. The receiving phone also retains unrecognized watch messages
+in a separate local quarantine file. Deleting an individual phone journal entry
+does not necessarily remove these retained files, and uninstalling only the phone
+app does not remove pending or rejected copies still on the watch. Use the
+relevant device's app-data controls to remove its app-private retained copies;
+exports and copies on other devices must be managed separately.
 
 You can withdraw optional permissions at any time in your device's settings. EEA, UK,
 and California residents may contact us about applicable privacy rights. In
